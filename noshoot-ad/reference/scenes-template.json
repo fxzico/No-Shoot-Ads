@@ -1,0 +1,17 @@
+{
+  "project": "PROJECT_NAME",
+  "product": "PRODUCT / BRAND",
+  "category": "icecream|food|apparel|electronics|cosmetics|jewelry|home|auto",
+  "fps": 24,
+  "duration": 30,
+  "resolution": "1920x1080",
+  "ratios": ["16:9", "9:16", "1:1", "4:5"],
+  "reference": "OPTIONAL — ref ad used for PACING only",
+  "_shot_fields": "n=number, in/out=seconds, type=shot size, cam=move, subject, tool, comfy=fix step if any, text=on-screen copy",
+  "shots": [
+    {"n":1, "in":0.0, "out":1.5, "type":"ECU", "cam":"push_in", "subject":"hero product detail", "tool":"nanobanana+veo", "comfy":null, "text":null},
+    {"n":2, "in":1.5, "out":3.0, "type":"CU",  "cam":"slowmo_track", "subject":"texture/splash beat", "tool":"nanobanana+veo", "comfy":null, "text":null}
+  ],
+  "audio": {"music":"mood + bpm", "sfx":["per-category hits synced to cuts"]},
+  "export": {"codec":"h264", "audio":"aac", "fps":24}
+}

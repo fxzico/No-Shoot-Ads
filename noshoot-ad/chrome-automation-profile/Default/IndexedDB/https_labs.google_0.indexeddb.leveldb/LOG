@@ -1,0 +1,35 @@
+2026/07/15-15:11:30.525 385c Reusing MANIFEST C:\Users\USER\.claude\skills\noshoot-ad\chrome-automation-profile\Default\IndexedDB\https_labs.google_0.indexeddb.leveldb/MANIFEST-000001
+2026/07/15-15:11:30.525 385c Recovering log #7
+2026/07/15-15:11:30.525 385c Reusing old log C:\Users\USER\.claude\skills\noshoot-ad\chrome-automation-profile\Default\IndexedDB\https_labs.google_0.indexeddb.leveldb/000007.log 
+2026/07/15-15:11:30.539 82f4 Level-0 table #11: started
+2026/07/15-15:11:30.546 82f4 Level-0 table #11: 1178 bytes OK
+2026/07/15-15:11:30.552 82f4 Delete type=0 #7
+2026/07/15-15:11:30.553 385c Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 429 : 1
+2026/07/15-15:11:30.553 385c Compacting 1@0 + 1@1 files
+2026/07/15-15:11:30.556 385c Generated table #12@0: 156 keys, 3390 bytes
+2026/07/15-15:11:30.556 385c Compacted 1@0 + 1@1 files => 3390 bytes
+2026/07/15-15:11:30.560 385c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/15-15:11:30.560 385c Delete type=2 #11
+2026/07/15-15:11:30.560 385c Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 429 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/07/15-15:12:46.856 82f4 Level-0 table #14: started
+2026/07/15-15:12:46.863 82f4 Level-0 table #14: 1157 bytes OK
+2026/07/15-15:12:46.868 82f4 Delete type=2 #8
+2026/07/15-15:12:46.868 82f4 Delete type=0 #10
+2026/07/15-15:12:46.868 385c Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 460 : 1
+2026/07/15-15:12:46.868 385c Compacting 1@0 + 1@1 files
+2026/07/15-15:12:46.871 385c Generated table #15@0: 157 keys, 3405 bytes
+2026/07/15-15:12:46.871 385c Compacted 1@0 + 1@1 files => 3405 bytes
+2026/07/15-15:12:46.875 385c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/15-15:12:46.875 385c Delete type=2 #14
+2026/07/15-15:12:46.876 385c Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 460 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/07/15-20:38:56.074 82f4 Level-0 table #17: started
+2026/07/15-20:38:56.081 82f4 Level-0 table #17: 1157 bytes OK
+2026/07/15-20:38:56.083 82f4 Delete type=2 #12
+2026/07/15-20:38:56.084 82f4 Delete type=0 #13
+2026/07/15-20:38:56.084 385c Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 491 : 1
+2026/07/15-20:38:56.084 385c Compacting 1@0 + 1@1 files
+2026/07/15-20:38:56.086 385c Generated table #18@0: 158 keys, 3413 bytes
+2026/07/15-20:38:56.086 385c Compacted 1@0 + 1@1 files => 3413 bytes
+2026/07/15-20:38:56.089 385c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/15-20:38:56.089 385c Delete type=2 #17
+2026/07/15-20:38:56.089 385c Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 491 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

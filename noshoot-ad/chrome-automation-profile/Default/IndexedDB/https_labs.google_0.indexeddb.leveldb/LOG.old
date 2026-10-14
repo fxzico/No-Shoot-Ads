@@ -1,0 +1,7 @@
+2026/07/15-15:08:04.130 385c Reusing MANIFEST C:\Users\USER\.claude\skills\noshoot-ad\chrome-automation-profile\Default\IndexedDB\https_labs.google_0.indexeddb.leveldb/MANIFEST-000001
+2026/07/15-15:08:04.130 385c Recovering log #4
+2026/07/15-15:08:04.131 385c Reusing old log C:\Users\USER\.claude\skills\noshoot-ad\chrome-automation-profile\Default\IndexedDB\https_labs.google_0.indexeddb.leveldb/000004.log 
+2026/07/15-15:08:04.375 82f4 Level-0 table #8: started
+2026/07/15-15:08:04.382 82f4 Level-0 table #8: 8194 bytes OK
+2026/07/15-15:08:04.387 82f4 Delete type=0 #4
+2026/07/15-15:08:04.387 385c Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
